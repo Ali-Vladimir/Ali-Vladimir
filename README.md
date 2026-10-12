@@ -1,14 +1,14 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/Operativa-Eficiencia_Absoluta-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Eficiencia" />
-  <img src="https://img.shields.io/badge/Arquitectura-Escalable-0F172A?style=for-the-badge&logo=serverless&logoColor=0ea5e9" alt="Arquitectura" />
-  <img src="https://img.shields.io/badge/Enfoque-Resultados_Cuantificables-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Resultados" />
+  <img src="https://img.shields.io/badge/Operations-Zero_Redundancy-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Efficiency" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-0F172A?style=for-the-badge&logo=serverless&logoColor=0ea5e9" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Focus-Quantifiable_Impact-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Results" />
 </div>
 
-> Ingeniería de software orientada a la ejecución precisa. Planificación arquitectónica, estandarización de entidades y despliegues seguros de extremo a extremo bajo metodologías ágiles (SCRUM)[cite: 1]. Cero redundancia.
+> Software Engineering. Architectural precision and end-to-end deployments[cite: 1]. Zero noise.
 
-### ⚙️ Arquitectura Web, Móvil y Lógica
-- **Lógica de Diseño:** Planificación estricta de entidades previa a la codificación.
-- **Stack de Ejecución:** Dominio en frameworks modernos, lenguajes estructurados y ecosistemas móviles multiplataforma[cite: 1].
+### ⚙️ Architecture & Execution
+- **Design:** Strict pre-code entity planning.
+- **Stack:** Multi-platform framework proficiency[cite: 1].
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/C%23-1E293B?style=for-the-badge&logo=c-sharp&logoColor=239120" />
 </p>
 
-### 📊 Datos, Inteligencia Artificial y Herramientas
-- **Gestión de Información:** Abstracción de lógica mediante esquemas de validación rigurosos y modelado de datos corporativos[cite: 1].
-- **IA y Automatización:** Implementación de modelos de visión artificial (YOLO) y estructuración de flujos de trabajo automatizados[cite: 1].
+### 📊 Data & Automation
+- **Modeling:** Rigid validation schemas[cite: 1].
+- **AI:** Applied computer vision (YOLO) and workflow orchestration[cite: 1].
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/Power_Automate-1E293B?style=for-the-badge&logo=powerautomate&logoColor=0066FF" />
 </p>
 
-### 🛡️ Entornos Operativos y Seguridad
-- **Infraestructura:** Control de flujos de despliegue y auditoría táctica a través de múltiples arquitecturas (Linux, Windows y macOS)[cite: 1].
+### 🛡️ Environments & Security
+- **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems[cite: 1].
 
 <p align="left">
   <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" />
