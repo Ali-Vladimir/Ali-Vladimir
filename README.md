@@ -1,4 +1,8 @@
 <div align="left">
+  <img src="./header.svg" alt="Header Perfil" width="100%" />
+</div>
+
+<div align="left">
   <img src="https://img.shields.io/badge/Operations-Zero_Redundancy-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Efficiency" />
   <img src="https://img.shields.io/badge/Architecture-Scalable-0F172A?style=for-the-badge&logo=serverless&logoColor=0ea5e9" alt="Architecture" />
   <img src="https://img.shields.io/badge/Focus-Quantifiable_Impact-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Results" />
