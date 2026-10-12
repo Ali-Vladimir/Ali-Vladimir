@@ -7,7 +7,7 @@
   <rect width="1200" height="340" fill="#000000"/>
 
   <!-- Línea lateral -->
-  <rect x="48" y="42" width="4" height="256" fill="#0097ff"/>
+  <rect x="48" y="42" width="4" height="230" fill="#0097ff"/>
 
   <!-- Etiqueta superior -->
   <text x="78" y="76"
