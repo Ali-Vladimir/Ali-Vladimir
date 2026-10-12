@@ -28,7 +28,7 @@
   </text>
 
   <text x="78" y="194"
-        fill="#eaf8ff"
+        fill="#ABDEF5"
         font-family="monospace"
         font-size="38"
         font-weight="700">
@@ -39,7 +39,8 @@
   <text x="78" y="247"
         fill="#7dd3fc"
         font-family="monospace"
-        font-size="30">
+        font-size="30"
+        font-weight="700">
     Above you,
     <tspan fill="#0ea5e9" font-weight="700">
       below zero.
@@ -48,14 +49,5 @@
 
   <!-- Detalle inferior -->
   <rect x="78" y="270" width="72" height="4" fill="#0097ff"/>
-
-  <!-- Firma técnica -->
-  <text x="78" y="315"
-        fill="#64748b"
-        font-family="monospace"
-        font-size="14"
-        letter-spacing="2">
-    SYSTEMS DESIGN / DEVELOPMENT / AUTOMATION
-  </text>
 
 </svg>
