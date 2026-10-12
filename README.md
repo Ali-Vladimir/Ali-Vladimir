@@ -1,39 +1,42 @@
-# Ali Vladimir
+# Ing. Ali Vladimir Cañada García
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Operativa-Eficiencia_Absoluta-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Eficiencia" />
+  <img src="https://img.shields.io/badge/Arquitectura-Escalable-0F172A?style=for-the-badge&logo=serverless&logoColor=0ea5e9" alt="Arquitectura" />
+  <img src="https://img.shields.io/badge/Enfoque-Resultados_Cuantificables-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Resultados" />
+</div>
+
+> Ingeniería de software orientada a la ejecución precisa. Planificación arquitectónica, estandarización de entidades y despliegues seguros de extremo a extremo. Cero redundancia.
+
+### ⚙️ Arquitectura y Estandarización Web
+- **Lógica de Diseño:** Planificación estricta de entidades previa a la codificación.
+- **Optimización:** Abstracción de lógica y eliminación de controladores redundantes mediante esquemas de validación rigurosos.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Modo-Operativo-0B0F14?style=for-the-badge&logo=icloud&logoColor=9AD7FF" alt="Modo Operativo" />
-  <img src="https://img.shields.io/badge/Foco-Resultados-1B1F24?style=for-the-badge&logo=target&logoColor=8EC5FF" alt="Foco en Resultados" />
-  <img src="https://img.shields.io/badge/Arquitectura-En%20Transici%C3%B3n-2A2F36?style=for-the-badge&logo=blueprint&logoColor=A8E4FF" alt="Arquitectura en transición" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-0F172A?style=for-the-badge&logo=zod&logoColor=3068b7" />
 </p>
 
-Ingeniero de software orientado a ejecución precisa: menos ruido, más impacto medible.
-Mi evolución actual está centrada en pasar de la implementación pura a la planificación arquitectónica, el modelado de datos y el despliegue end-to-end, evaluando cada decisión bajo lógica de costo-beneficio.
+### 🛡️ Entornos Operativos y Seguridad
+- **Infraestructura:** Control absoluto de flujos de despliegue desde la capa del sistema operativo.
+- **Auditoría:** Perspectiva de ciberseguridad aplicada al ciclo de vida del desarrollo.
 
-## Base de Operaciones
+<p align="left">
+  <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" />
+  <img src="https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=linux&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/Kali_Linux-1E293B?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-- **Sistema principal:** Void Linux
-- **Entorno de trabajo:** i3wm + Alacritty
-- **Experiencia secundaria:** Xubuntu
+### 🚀 Ejecución y Resultados
+- **Operaciones Desplegadas:** Implementación de soluciones de software premiadas en certámenes de innovación tecnológica a nivel nacional.
+- **Estándar de Desarrollo:** Metodología unificada para repositorios públicos y privados basada en código limpio, arquitecturas escalables y cero dependencias innecesarias.
 
-## Armamento Técnico
-
-- **Ecosistema web:** Next.js
-- **Datos y ORM:** PostgreSQL + Prisma
-- **Despliegues de base de datos:** Neon.tech
-- **Validación:** Zod
-- **Gestión de paquetes:** Yarn (evaluación táctica de migración a pnpm)
-- **Infraestructura:** GitHub + Vercel
-
-## Ejecuciones Activas
-
-- Diseño y construcción de aplicaciones web full stack con enfoque en mantenibilidad real.
-- Consolidación de patrones de arquitectura orientados a escalabilidad operativa.
-- Optimización de flujos de despliegue para reducir fricción entre desarrollo y producción.
-
-## Operaciones Desplegadas
-
-Trabajo con el mismo estándar tanto en repositorios públicos como en privados:
-**código limpio, arquitecturas escalables y cero dependencias innecesarias**.
-La lectura completa de mi perfil técnico se entiende observando las herramientas y decisiones de implementación que aplico en mis repositorios privados.
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-1E293B?style=for-the-badge&logo=yarn&logoColor=2C8EBB" />
+</p>
