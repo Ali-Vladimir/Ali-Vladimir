@@ -15,35 +15,43 @@
     DATA / INTELLIGENCE
   </text>
 
-  <text x="78" y="142"
+  <text x="78" y="130"
         fill="#eaf8ff"
         font-family="monospace"
-        font-size="38"
+        font-size="28"
         font-weight="700">
-    Structured data.
+    Transforming complex datasets into clear, measurable
   </text>
 
-  <text x="78" y="194"
+  <text x="78" y="175"
         fill="#eaf8ff"
         font-family="monospace"
-        font-size="38"
+        font-size="28"
         font-weight="700">
-    Measurable outcomes.
+    outcomes through rigid validation and AI workflows.
   </text>
 
-  <text x="78" y="247"
+  <text x="78" y="220"
+        fill="#eaf8ff"
+        font-family="monospace"
+        font-size="28"
+        font-weight="700">
+    Orchestrating computer vision and data pipelines
+  </text>
+
+  <text x="78" y="265"
         fill="#7dd3fc"
         font-family="monospace"
-        font-size="30">
-    From raw input to
+        font-size="28">
+    to turn raw inputs into
     <tspan fill="#0ea5e9" font-weight="700">
-      actionable insight.
+      intelligent, actionable insights.
     </tspan>
   </text>
 
-  <rect x="78" y="270" width="72" height="4" fill="#0097ff"/>
+  <rect x="78" y="290" width="72" height="4" fill="#0097ff"/>
 
-  <text x="78" y="315"
+  <text x="78" y="320"
         fill="#64748b"
         font-family="monospace"
         font-size="14"
