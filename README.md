@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Focus-Quantifiable_Impact-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Results" />
 </div>
 
+<div align="left">
+  <img src="./architecture.svg" alt="Architecture & Execution" width="100%" />
+</div>
+
 ### Architecture & Execution
 - **Design:** Strict pre-code entity planning.
 - **Stack:** Multi-platform framework proficiency.
@@ -27,6 +31,11 @@
   <img src="https://img.shields.io/badge/C%23-1E293B?style=for-the-badge&logo=c-sharp&logoColor=239120" />
 </p>
 
+<div align="left">
+  <img src="./data.svg" alt="Data & Automation" width="100%" />
+</div>
+
+
 ### Data & Automation
 - **Modeling:** Rigid validation schemas.
 - **AI:** Applied computer vision (YOLO) and workflow orchestration.
@@ -39,6 +48,10 @@
   <img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Power_Automate-1E293B?style=for-the-badge&logo=powerautomate&logoColor=0066FF" />
 </p>
+
+<div align="left">
+  <img src="./environment.svg" alt="Environments & Security" width="100%" />
+</div>
 
 ### Environments & Security
 - **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems.
