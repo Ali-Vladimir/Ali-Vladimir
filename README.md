@@ -37,5 +37,3 @@ Trabajo con el mismo estándar tanto en repositorios públicos como en privados:
 La lectura completa de mi perfil técnico se entiende observando las herramientas y decisiones de implementación que aplico en mis repositorios privados.
 
 ---
-
-> Paleta visual recomendada para insignias/banners: **#000000, #1B1F24, #2A2F36, #FFFFFF, #9AD7FF, #A8E4FF**.
