@@ -24,7 +24,7 @@
   </text>
 
   <text x="78" y="175"
-        fill="#eaf8ff"
+        fill="#ABDEF5"
         font-family="monospace"
         font-size="28"
         font-weight="700">
@@ -32,7 +32,7 @@
   </text>
 
   <text x="78" y="220"
-        fill="#eaf8ff"
+        fill="#7dd3fc"
         font-family="monospace"
         font-size="28"
         font-weight="700">
@@ -40,9 +40,10 @@
   </text>
 
   <text x="78" y="265"
-        fill="#7dd3fc"
+        fill="#ABDEF5"
         font-family="monospace"
-        font-size="28">
+        font-size="28"
+        font-weight="700">
     systems ready for
     <tspan fill="#0ea5e9" font-weight="700">
       safe and deliberate execution.
@@ -50,13 +51,5 @@
   </text>
 
   <rect x="78" y="290" width="72" height="4" fill="#0097ff"/>
-
-  <text x="78" y="320"
-        fill="#64748b"
-        font-family="monospace"
-        font-size="14"
-        letter-spacing="2">
-    OS DEPLOYMENT / SECURITY AUDITING / INFRASTRUCTURE
-  </text>
 
 </svg>
