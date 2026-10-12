@@ -4,11 +4,11 @@
   <img src="https://img.shields.io/badge/Focus-Quantifiable_Impact-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Results" />
 </div>
 
-> Software Engineering. Architectural precision and end-to-end deployments[cite: 1]. Zero noise.
+> Software Engineering. Architectural precision and end-to-end deployments. Zero noise.
 
 ### ⚙️ Architecture & Execution
 - **Design:** Strict pre-code entity planning.
-- **Stack:** Multi-platform framework proficiency[cite: 1].
+- **Stack:** Multi-platform framework proficiency.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -26,8 +26,8 @@
 </p>
 
 ### 📊 Data & Automation
-- **Modeling:** Rigid validation schemas[cite: 1].
-- **AI:** Applied computer vision (YOLO) and workflow orchestration[cite: 1].
+- **Modeling:** Rigid validation schemas.
+- **AI:** Applied computer vision (YOLO) and workflow orchestration.
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -39,7 +39,7 @@
 </p>
 
 ### 🛡️ Environments & Security
-- **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems[cite: 1].
+- **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" />
