@@ -12,10 +12,6 @@
   <img src="./architecture.svg" alt="Architecture & Execution" width="100%" />
 </div>
 
-### Architecture & Execution
-- **Design:** Strict pre-code entity planning.
-- **Stack:** Multi-platform framework proficiency.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -35,11 +31,6 @@
   <img src="./data.svg" alt="Data & Automation" width="100%" />
 </div>
 
-
-### Data & Automation
-- **Modeling:** Rigid validation schemas.
-- **AI:** Applied computer vision (YOLO) and workflow orchestration.
-
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white" />
@@ -52,9 +43,6 @@
 <div align="left">
   <img src="./environment.svg" alt="Environments & Security" width="100%" />
 </div>
-
-### Environments & Security
-- **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" />
