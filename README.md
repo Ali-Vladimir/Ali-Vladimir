@@ -1,5 +1,3 @@
-# Ing. Ali Vladimir
-
 <div align="left">
   <img src="https://img.shields.io/badge/Operativa-Eficiencia_Absoluta-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Eficiencia" />
   <img src="https://img.shields.io/badge/Arquitectura-Escalable-0F172A?style=for-the-badge&logo=serverless&logoColor=0ea5e9" alt="Arquitectura" />
