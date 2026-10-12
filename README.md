@@ -62,6 +62,13 @@
   <img src="https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=linux&logoColor=0ea5e9" />
   <img src="https://img.shields.io/badge/Kali_Linux-1E293B?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
   <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetson_Nano-0F172A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/NVIDIA_JetPack-1E293B?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/Linux_for_Tegra-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/Red_Hat-0F172A?style=for-the-badge&logo=redhat&logoColor=EE0000" />
+  <img src="https://img.shields.io/badge/Fedora-1E293B?style=for-the-badge&logo=fedora&logoColor=51A2DA" />
+  <img src="https://img.shields.io/badge/Gentoo-000000?style=for-the-badge&logo=gentoo&logoColor=54487A" />
   <img src="https://img.shields.io/badge/XUbuntu-0F172A?style=for-the-badge&logo=xubuntu&logoColor=0ea5e9" />
   <img src="https://img.shields.io/badge/Linux_Mint-1E293B?style=for-the-badge&logo=linuxmint&logoColor=87C514" />
   <img src="https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=linux&logoColor=white" />
