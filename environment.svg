@@ -15,35 +15,43 @@
     SYSTEMS / SECURITY
   </text>
 
-  <text x="78" y="142"
+  <text x="78" y="130"
         fill="#eaf8ff"
         font-family="monospace"
-        font-size="38"
+        font-size="28"
         font-weight="700">
-    Control the environment.
+    Mastering infrastructure through OS-level deployment
   </text>
 
-  <text x="78" y="194"
+  <text x="78" y="175"
         fill="#eaf8ff"
         font-family="monospace"
-        font-size="38"
+        font-size="28"
         font-weight="700">
-    Understand the system.
+    control and tactical security auditing protocols.
   </text>
 
-  <text x="78" y="247"
+  <text x="78" y="220"
+        fill="#eaf8ff"
+        font-family="monospace"
+        font-size="28"
+        font-weight="700">
+    Understanding the core ecosystem to build hardened
+  </text>
+
+  <text x="78" y="265"
         fill="#7dd3fc"
         font-family="monospace"
-        font-size="30">
-    Hardened systems,
+        font-size="28">
+    systems ready for
     <tspan fill="#0ea5e9" font-weight="700">
-      deliberate execution.
+      safe and deliberate execution.
     </tspan>
   </text>
 
-  <rect x="78" y="270" width="72" height="4" fill="#0097ff"/>
+  <rect x="78" y="290" width="72" height="4" fill="#0097ff"/>
 
-  <text x="78" y="315"
+  <text x="78" y="320"
         fill="#64748b"
         font-family="monospace"
         font-size="14"
