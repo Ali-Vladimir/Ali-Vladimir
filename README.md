@@ -1,4 +1,4 @@
-# Ing. Ali Vladimir Cañada García
+# Ing. Ali Vladimir
 
 <div align="left">
   <img src="https://img.shields.io/badge/Operativa-Eficiencia_Absoluta-000000?style=for-the-badge&logo=opsgenie&logoColor=0ea5e9" alt="Eficiencia" />
