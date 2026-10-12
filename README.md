@@ -6,7 +6,7 @@
 
 > Software Engineering. Architectural precision and end-to-end deployments. Zero noise.
 
-### ⚙️ Architecture & Execution
+### Architecture & Execution
 - **Design:** Strict pre-code entity planning.
 - **Stack:** Multi-platform framework proficiency.
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/C%23-1E293B?style=for-the-badge&logo=c-sharp&logoColor=239120" />
 </p>
 
-### 📊 Data & Automation
+### Data & Automation
 - **Modeling:** Rigid validation schemas.
 - **AI:** Applied computer vision (YOLO) and workflow orchestration.
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Power_Automate-1E293B?style=for-the-badge&logo=powerautomate&logoColor=0066FF" />
 </p>
 
-### 🛡️ Environments & Security
+### Environments & Security
 - **Infrastructure:** OS-level deployment control and tactical security auditing across multiple ecosystems.
 
 <p align="left">
