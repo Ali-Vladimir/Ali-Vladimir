@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-Quantifiable_Impact-1E293B?style=for-the-badge&logo=target&logoColor=0ea5e9" alt="Results" />
 </div>
 
-> Software Engineering. Architectural precision and end-to-end deployments. Above you, below zero.
-
 ### Architecture & Execution
 - **Design:** Strict pre-code entity planning.
 - **Stack:** Multi-platform framework proficiency.
