@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=512BD4" />
   <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/Gradle-1E293B?style=for-the-badge&logo=gradle&logoColor=02303A" />
-  <img src="https://img.shields.io/badge/JSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JSS-000000?style=for-the-badge&logo=JSS&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Gentoo-000000?style=for-the-badge&logo=gentoo&logoColor=54487A" />
   <img src="https://img.shields.io/badge/XUbuntu-0F172A?style=for-the-badge&logo=xubuntu&logoColor=0ea5e9" />
   <img src="https://img.shields.io/badge/Linux_Mint-1E293B?style=for-the-badge&logo=linuxmint&logoColor=87C514" />
-  <img src="https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=tails&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppy_Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge&logo=cursor&logoColor=white" />
