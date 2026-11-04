@@ -90,6 +90,7 @@
   <img src="https://img.shields.io/badge/Linux_Mint-1E293B?style=for-the-badge&logo=linuxmint&logoColor=87C514" />
   <img src="https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=tails&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppy_Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntiX-1E293B?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-1E293B?style=for-the-badge&logo=githubcopilot&logoColor=white" />
