@@ -8,28 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-Performance_&_Optimization-1E293B?style=for-the-badge&logo=speedtest&logoColor=0ea5e9" alt="Performance" />
 </div>
 
-<h3>Proyectos recientes</h3>
-
-<p align="left">
-  <a href="https://github.com/Ali-Vladimir/login-fosforo"><strong>login-fosforo</strong></a><br />
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/TOML-1E293B?style=for-the-badge&logo=toml&logoColor=white" alt="TOML" />
-  <img src="https://img.shields.io/badge/greetd-0F172A?style=for-the-badge&logo=linux&logoColor=0ea5e9" alt="greetd" />
-  <img src="https://img.shields.io/badge/tuigreet-000000?style=for-the-badge&logo=linux&logoColor=22ff22" alt="tuigreet" />
-  <img src="https://img.shields.io/badge/i3-1E293B?style=for-the-badge&logo=i3&logoColor=white" alt="i3" />
-  <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" alt="Void Linux" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Ali-Vladimir/nvim-fosforo"><strong>nvim-fosforo</strong></a><br />
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua" />
-  <img src="https://img.shields.io/badge/Neovim-0F172A?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Neovim" />
-  <img src="https://img.shields.io/badge/lazy.nvim-1E293B?style=for-the-badge&logo=neovim&logoColor=57A143" alt="lazy.nvim" />
-  <img src="https://img.shields.io/badge/LSP-000000?style=for-the-badge&logo=language-server-protocol&logoColor=white" alt="LSP" />
-  <img src="https://img.shields.io/badge/Mason-0F172A?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Mason" />
-  <img src="https://img.shields.io/badge/Telescope-1E293B?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Telescope" />
-</p>
-
 <div align="left">
   <img src="./architecture.svg" alt="Architecture & Execution" width="100%" />
 </div>
@@ -59,6 +37,9 @@
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Kotlin-1E293B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-0F172A?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/TOML-1E293B?style=for-the-badge&logo=toml&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3E67B1" />
   <img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Eclipse-1E293B?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
@@ -96,6 +77,13 @@
   <img src="https://img.shields.io/badge/pnpm-1E293B?style=for-the-badge&logo=pnpm&logoColor=F69220" />
   <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=019733" />
   <img src="https://img.shields.io/badge/Neovim-0F172A?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/lazy.nvim-1E293B?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/LSP-000000?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/Mason-0F172A?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/Telescope-1E293B?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/i3-000000?style=for-the-badge&logo=i3&logoColor=white" />
+  <img src="https://img.shields.io/badge/greetd-0F172A?style=for-the-badge&logo=linux&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/tuigreet-1E293B?style=for-the-badge&logo=linux&logoColor=22ff22" />
   <img src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=478061" />
   <img src="https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=linux&logoColor=0ea5e9" />
   <img src="https://img.shields.io/badge/Kali_Linux-1E293B?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
